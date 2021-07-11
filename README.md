@@ -20,13 +20,7 @@
 
 ## Author
 
-👤 **amino19**
-
-* Github: [@amino19](https://github.com/amino19)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
+👤 **[amino19]**(https://github.com/amino19)
 
 ## 📝 License
 
@@ -41,3 +35,7 @@ See the [contributing.md](https://github.com/amino19/Health-Tracker/blob/master/
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
