@@ -1,42 +1,43 @@
-<div align="center">
-  <h1 align="center"> " Health Tracker " </h1>
-</div>
-
-<div align="center">
-  <h4 align="center"> <i> If you can't, we cares you! </i> </h4>
-</div>
-
+<img src="https://socialify.git.ci/amino19/Health-Tracker/image?description=1&font=Raleway&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Health Tracker" width="1040" height="320" />
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/75872316/120891455-645ff800-c626-11eb-9edd-4c6c53022b3d.png" alt="Awesome Badge"/>
+
+  <a href="https://github.com/amino19/Health-Tracker/blob/master/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/amino19/Health-Tracker?style=for-the-badge&logo=github?label=healthinesses" />
+  </a>
+  <a href="https://github.com/amino19/Health-Tracker">
+    <img alt="Size" src="https://img.shields.io/github/languages/code-size/amino19/Health-Tracker?style=for-the-badge&logo=github?label=healthinesses" />
+  </a>
+   <a href="https://github.com/amino19/Health-Tracker">
+    <img alt="Stars" src="https://img.shields.io/github/stars/amino19/Health-Tracker?style=for-the-badge&logo=github?label=healthinesses" />
+  </a>
 </p>
 
-#### _Preview_ :-
+<h1 align="center">Welcome to Health Tracker 👋</h1>
+
+#### Project Preview
+
 ![image](https://user-images.githubusercontent.com/75872316/120891093-442f3980-c624-11eb-8392-29032c38bbda.png)
+
+## Author
+
+👤 **amino19**
+
+* Github: [@amino19](https://github.com/amino19)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2021 [amino19](https://github.com/amino19).<br />
+This project is [Mozilla Public License 2.0](https://github.com/amino19/Health-Tracker/blob/master/LICENSE) licensed.
 
 
 ## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-#### _Make sure to get this_ :-
-![image](https://user-images.githubusercontent.com/75872316/120891023-f4507280-c623-11eb-91b9-718e4dd22ea9.png)
-
+See the [contributing.md](https://github.com/amino19/Health-Tracker/blob/master/CONTRIBUTING.md) file for more details on how to setup.
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
