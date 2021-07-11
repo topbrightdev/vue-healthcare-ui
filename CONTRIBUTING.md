@@ -2,30 +2,28 @@
 
 Please do! Thanks for your help in improving the project! :balloon:
 
-All contributors are welcome. Not sure where to start? Please do simulate this project from below details given, so to get an idea of Project's workflow.
-All set to contribute? Grab an open issue, with permission to <a href="https://github.com/amino19"> mine 🙂 </a> and hop in. Join our <a href="https://github.com/amino19/Health-Tracker/discussions/"> discussions</a> and engage in conversation. Create a [new issue](/../../issues/new/choose) if needed. All [pull requests](/../../pulls) should ideally reference an open [issue](/../../issues). Include keywords in your pull request descriptions, as well as commit messages, to automatically close related issues in GitHub.
+All contributors are welcome. Not sure where to start? Please follow the directions from the details given below, so you can get an idea of the project's workflow.
+All set to contribute? Grab an open issue, and with the permission of <a href="https://github.com/amino19"> me 🙂 </a> , you can get started! Join our <a href="https://github.com/amino19/Health-Tracker/discussions/"> discussions</a> and engage in conversation. Create a [new issue](/../../issues/new/choose) if needed. All [pull requests](/../../pulls) should ideally reference an open [issue](/../../issues). Include keywords in your pull request descriptions, as well as commit messages, to automatically close related issues in GitHub.
 
-### Follow the steps mentioned below
-
-#### Project setup
+# Project setup
 
 ```
 npm install
 ```
 
-#### Compiles and hot-reloads for development
+## Compiles and hot-reloads for development
 
 ```
 npm run serve
 ```
 
-#### Compiles and minifies for production
+### Compiles and minifies for production
 
 ```
 npm run build
 ```
 
-#### Lints and fixes files
+### Lints and fixes files
 
 ```
 npm run lint
