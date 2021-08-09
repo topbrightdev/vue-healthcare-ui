@@ -20,7 +20,7 @@
 
 ## Author
 
-👤 **[amino19]**(https://github.com/amino19)
+👤 ![amino19](https://github.com/amino19)
 
 ## 📝 License
 
