@@ -20,21 +20,21 @@
 
 ## Author
 
-👤 ![amino19](https://github.com/amino19)
+👤 [amino19](https://github.com/amino19)
 
 ## 📝 License
 
-Copyright © 2021 [amino19](https://github.com/amino19).<br />
+Copyright © 2021 [amino19](https://github.com/amino19) and contributors.<br />
 This project is [Mozilla Public License 2.0](https://github.com/amino19/Health-Tracker/blob/master/LICENSE) licensed.
 
 
 ## Project setup
 
-See the [contributing.md](https://github.com/amino19/Health-Tracker/blob/master/CONTRIBUTING.md) file for more details on how to setup.
+See our [contribution guidelines](https://github.com/amino19/Health-Tracker/blob/master/CONTRIBUTING.md) file for more details on how to setup.
 
 ### Customize configuration
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See the [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Show your support
 
