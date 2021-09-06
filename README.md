@@ -1,4 +1,4 @@
-<img src="https://socialify.git.ci/amino19/Health-Tracker/image?description=1&font=Raleway&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Health Tracker" width="1040" height="320" />
+<img src="https://socialify.git.ci/amino19/healthcare/image?description=1&font=Raleway&owner=1&pattern=Circuit%20Board&theme=Dark" alt="healthcare" width="1040" height="320" />
 <p align="center">
 
   <a href="https://github.com/amino19/Health-Tracker/blob/master/LICENSE" target="_blank">
