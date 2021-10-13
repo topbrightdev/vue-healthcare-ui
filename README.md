@@ -14,9 +14,9 @@
 
 <h1 align="center">Welcome to Health Tracker 👋</h1>
 
-#### Project Preview
+#### 👀 Project Preview
 
-![image](https://user-images.githubusercontent.com/75872316/120891093-442f3980-c624-11eb-8392-29032c38bbda.png)
+![image](https://user-images.githubusercontent.com/75872316/137120643-78260150-176a-4834-abcf-3c85d7ed4ed8.png)
 
 ## Author
 
@@ -28,14 +28,14 @@ Copyright © 2021 [amino19](https://github.com/amino19) and contributors.<br />
 This project is [Mozilla Public License 2.0](https://github.com/amino19/Health-Tracker/blob/master/LICENSE) licensed.
 
 
-## Project setup
+## 🛠️ Project setup
 
 See our [contribution guidelines](https://github.com/amino19/Health-Tracker/blob/master/CONTRIBUTING.md) file for more details on how to setup.
 
 ### Customize configuration
 
-See the [Configuration Reference](https://cli.vuejs.org/config/).
+See the [Configuration Reference](https://cli.vuejs.org/config).
 
-## Show your support
+## 🧰 Show your support
 
 Give a ⭐️ if this project helped you!
