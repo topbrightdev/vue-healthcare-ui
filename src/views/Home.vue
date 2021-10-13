@@ -36,7 +36,7 @@
         </v-list-item-title>
         <v-list-item-subtitle>
           The package price includes: consultation<br>
-          of a pulmonologist, spirography, cardiogram <span class="teal--text">></span>
+          of a pulmonologist, spirography, cardiogram <span class="teal--text"></span>
         </v-list-item-subtitle>
       </v-list-item-content>
 
@@ -66,7 +66,7 @@
                     </v-icon>
                   </v-btn>
                    <v-btn color="teal" rounded dark depressed>Year</v-btn>
-                   <v-btn text >Mounth</v-btn>
+                   <v-btn text >Month</v-btn>
                   </v-app-bar>
                   <template>
                 <v-sparkline
@@ -116,7 +116,7 @@
                    <h5>Your activity</h5>
                   <v-spacer></v-spacer>
                    <v-btn color="teal" rounded dark depressed>Week</v-btn>
-                   <v-btn text >Mounth</v-btn>
+                   <v-btn text >Month</v-btn>
                   </v-app-bar>      
                   <v-progress-circular
                         rotate="360"
@@ -164,11 +164,11 @@
             <v-list-item
             >
               <v-list-item-avatar>
-                <img src="https://cdn.vuetifyjs.com/images/lists/3.jpg">
+                <img src="https://avatars.githubusercontent.com/u/75872316?s=400&u=558ab614ee8a811c5e6574dd9182e8c5f0df71f5&v=4">
               </v-list-item-avatar>
               <v-list-item-content>
-                <v-list-item-title >Anastasia Turner</v-list-item-title>
-                <v-list-item-subtitle class="teal--text">35 years, Houston</v-list-item-subtitle>    
+                <v-list-item-title >Anshumaan Kumar Prasad</v-list-item-title>
+                <v-list-item-subtitle class="teal--text">19 years, India</v-list-item-subtitle>    
               </v-list-item-content>
               <v-spacer></v-spacer>
                  <v-icon color="teal">mdi-menu</v-icon>
@@ -185,7 +185,7 @@
                   <v-list-item>
                     <v-list-item-content>
                        <v-list-item-subtitle>Blood</v-list-item-subtitle>
-                      <v-list-item-title>A+</v-list-item-title>
+                      <v-list-item-title>O+</v-list-item-title>
                     </v-list-item-content>
                   </v-list-item>
                 </v-list>
@@ -219,7 +219,7 @@
                   <v-list-item>
                     <v-list-item-content>
                        <v-list-item-subtitle>Weight</v-list-item-subtitle>
-                      <v-list-item-title>64 kg</v-list-item-title>
+                      <v-list-item-title>65 kg</v-list-item-title>
                     </v-list-item-content>
                   </v-list-item>
                 </v-list>
