@@ -1,7 +1,7 @@
 <img src="https://socialify.git.ci/amino19/healthcare-ui/image?description=1&font=Raleway&owner=1&pattern=Circuit%20Board&theme=Dark" alt="healthcare" width="1040" height="320" />
 <p align="center">
 
-  <a href="https://github.com/amino19/Health-Tracker/blob/master/LICENSE" target="_blank">
+  <a href="https://github.com/amino19/Health-Tracker/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/amino19/Health-Tracker?style=for-the-badge&logo=github?label=healthinesses" />
   </a>
   <a href="https://github.com/amino19/Health-Tracker">
@@ -25,12 +25,12 @@
 ## 📝 License
 
 Copyright © 2021 [amino19](https://github.com/amino19) and contributors.<br />
-This project is [Mozilla Public License 2.0](https://github.com/amino19/Health-Tracker/blob/master/LICENSE) licensed.
+This project is [Mozilla Public License 2.0](https://github.com/amino19/Health-Tracker/blob/main/LICENSE) licensed.
 
 
 ## 🛠️ Project setup
 
-See our [contribution guidelines](https://github.com/amino19/Health-Tracker/blob/master/CONTRIBUTING.md) file for more details on how to setup.
+See our [contribution guidelines](https://github.com/amino19/Health-Tracker/blob/main/CONTRIBUTING.md) file for more details on how to setup.
 
 ### Customize configuration
 
